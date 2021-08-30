@@ -100,12 +100,17 @@ def main():
 os.system('clear') 
 main()
 file = input(c2+f'Select The File Name To Save :{c1} ')
+if file == "":
+    file = "passlist"
+else:
+    pass
 
 f = open(f'{file}.txt', 'a')
 for hit in out:
     f.write(hit+'\n')
-f.close()         
-print(c2+f'Number : {c1}{len(out)}\n{c2}Saved as : {c1}{file}.txt')  
+size = f.seek(0, 2)
+f.close()  
 
+print(c2+f"Password number :{c1} {len(out)}{c2} \nSaved :{c1} {file}.txt\n{c2}File Size :{c1} {size // 1000 / 1000}")
 
 
