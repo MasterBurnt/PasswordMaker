@@ -1,3 +1,6 @@
+#!/bin/python3
+#MasterBurnt 
+#t.me/TheBurnt
 import os
 import random
 from concurrent.futures import ThreadPoolExecutor
@@ -22,7 +25,7 @@ print(c1+f"""
       | |_) / _` / __/ __| |\/| |/ _` | |/ / _ \ '__|
       |  __/ (_| \__ \__ \ |  | | (_| |   <  __/ |
       |_|   \__,_|___/___/_|  |_|\__,_|_|\_\___|_|      
-                         {c6}ᵐᵃˢᵗᵉʳvᵇᵘʳⁿᵗ 
+                         {c4}MᵃˢᵗᵉʳBᵘʳⁿᵗ 
       
        {c5}Provide Available {c4}Information{c5} Of The Target!
             You Can {c4}'Enter'{c5} to get the output
