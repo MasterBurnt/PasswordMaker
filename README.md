@@ -1,15 +1,8 @@
 ## PasswordMaker
-Strong listing password <br /
+Strong listing password 
 
 
-
-                  
-
-                 
-
-
-
-                 
+    
 
 [![Python](https://img.shields.io/badge/language-Python%203-blue.svg)](https://www.python.org)
 
