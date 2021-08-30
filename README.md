@@ -7,7 +7,7 @@ Strong listing password
 ### Introduction
 The probability of having the password you want in the PassMaker is +90%!!
 <br />
-<img src="image.jpg" />
+<img src="logo.jpg" />
 <br /> 
 
 
