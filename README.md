@@ -13,7 +13,7 @@ The probability of having the password you want in the tool is +90%!!
 
 ### How to Install
 
-Open the terminal and type following commands.
+Open the terminal and type following commands:
 
 <pre><code>apt-get install git</code></pre>
 
