@@ -5,7 +5,7 @@ Strong listing password
 [![Python](https://img.shields.io/badge/language-Python%203-blue.svg)](https://www.python.org)
 
 ### Introduction
-The probability of having the password you want in the PassMaker is +90%!!
+The probability of having the password you want in the tool (PasswordMaker) is +90%!!
 <br />
 <br />
 <img src="photo.jpg" />
