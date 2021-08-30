@@ -25,10 +25,10 @@ print(c1+f"""
       | |_) / _` / __/ __| |\/| |/ _` | |/ / _ \ '__|
       |  __/ (_| \__ \__ \ |  | | (_| |   <  __/ |
       |_|   \__,_|___/___/_|  |_|\__,_|_|\_\___|_|      
-                         {c4}MᵃˢᵗᵉʳBᵘʳⁿᵗ 
+                        {c4}MᵃˢᵗᵉʳBᵘʳⁿᵗ 
       
-       {c5}Provide Available {c4}Information{c5} Of The Target!
-            You Can {c4}'Enter'{c5} to get the output
+       {c5}Provide Available {c3}Information{c5} Of The Target!
+            You Can {c3}'Enter'{c5} to get the output
               """)
 for x in range(1,101):    
     i = input(c2+f"""
