@@ -6,14 +6,8 @@ Strong listing password
 
 ### Introduction
 The probability of having the password you want in the PassMaker is +90%!!
-
-Written by `Mr Burnt`
-<br/>
-contact with me:
-<a href="https://t.me/TheBurnt">Talagram</a>
-
 <br />
-<img src="hi.jpg" />
+<img src="image.jpg" />
 <br /> 
 
 
@@ -21,26 +15,31 @@ contact with me:
 
 Open the terminal and type following commands.
 <pre><code>
-* `apt-get update`
+`apt-get update`
 
-* `apt-get install git`
+`apt-get install git`
 
-* `git clone https://github.com/MasterBurnt/PasswordMaker/`
+`git clone https://github.com/MasterBurnt/PasswordMaker/`
 
-* `cd PasswordMaker`
+`cd PasswordMaker`
 
-* `pip install -r requirments.txt`
+`pip install -r requirments.txt`
 </code></pre>
 
 
 ### How to Use ?
 
-<pre><code>*  `python3 run.py`</code></pre>
+<pre><code>`python3 run.py`</code></pre>
  
 
 **In the end**
+<br/>
+contact with me:
+<a href="https://t.me/TheBurnt">Talagram</a>
 
+<br />
 #### Good luck =|
+####With Respect, Master Burnt
 
 
 
