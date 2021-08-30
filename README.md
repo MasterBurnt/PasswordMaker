@@ -1,6 +1,6 @@
 ## PasswordMaker
-Strong listing password 
-                  ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 	
+Strong listing password <br />
+
 
                   ▇▇▇▇▇◤▔▔▔▔▔▔▔◥▇▇▇▇▇▇ 
 
@@ -16,7 +16,7 @@ Strong listing password
 
                   ▇▇▇▇▇▇▇◣╲▇╱◢▇▇▇▇▇▇▇▇ 
 
-                  ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 
+
 
                  
 
