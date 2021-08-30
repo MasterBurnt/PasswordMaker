@@ -5,7 +5,7 @@ Strong listing password
 [![Python](https://img.shields.io/badge/language-Python%203-blue.svg)](https://www.python.org)
 
 ### Introduction
-The probability of having the password you want in the tool (PasswordMaker) is +90%!!
+The probability of having the password you want in the tool is +90%!!
 <br />
 <br />
 <img src="photo.jpg" />
@@ -16,15 +16,13 @@ The probability of having the password you want in the tool (PasswordMaker) is +
 
 Open the terminal and type following commands.
 
-<pre><code>apt-get update
+<pre><code>apt-get install git</code></pre>
 
-apt-get install git
+<pre><code>git clone https://github.com/MasterBurnt/PasswordMaker/</code></pre>
 
-git clone https://github.com/MasterBurnt/PasswordMaker/
+<pre><code>cd PasswordMaker</code></pre>
 
-cd PasswordMaker
-
-pip install -r requirments.txt</code></pre>
+<pre><code>pip install -r requirments.txt</code></pre>
 
 
 
