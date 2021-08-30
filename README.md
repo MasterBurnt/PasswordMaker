@@ -1,9 +1,6 @@
 ## PasswordMaker
 Strong listing password 
-
-
     
-
 [![Python](https://img.shields.io/badge/language-Python%203-blue.svg)](https://www.python.org)
 
 ### Introduction
@@ -23,10 +20,6 @@ Open the terminal and type following commands.
 <pre><code>git clone https://github.com/MasterBurnt/PasswordMaker/</code></pre>
 
 <pre><code>cd PasswordMaker</code></pre>
-
-<pre><code>pip install -r requirments.txt</code></pre>
-
-
 
 ### How to Use ?
 
